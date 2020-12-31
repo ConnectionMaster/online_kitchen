@@ -16,7 +16,7 @@ gem 'sidekiq', '4.1.4'
 
 gem 'metriks'
 
-gem 'nokogiri', '~> 1.8.2'
+gem 'nokogiri', '~> 1.10.10'
 gem 'savon', '~> 2.11'
 gem 'sentry-raven' # ,    github: 'getsentry/raven-ruby'
 
